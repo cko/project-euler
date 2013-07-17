@@ -1,8 +1,5 @@
 package main
 
-// https://gist.github.com/james4k/3730918
-// The SSE instruction RSQRTSS might serve your purpose.
-// 64-Bit: 0x5fe6eb50c7b537a9
 import "fmt"
 import "math/big"
 import "strconv"
